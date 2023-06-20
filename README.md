@@ -13,14 +13,13 @@
 ## Project Description
 
 In this project, I have used Axios API to build my own Login/Register page and learn the authentication
+![Screenshot 2023-06-19 at 11 34 55 PM](https://github.com/AUSt-in/React_Auth/assets/79310192/26e17bc8-cd33-4e04-932f-8e658191727c)
 
 ## Features
 
 - API usage
 - React Knowledge
-
 ## Installation
-
 1. Clone the repository.
    ```bash
    git clone https://github.com/your-username/your-project.git
@@ -33,4 +32,5 @@ I would love to see if you guys could add to this project
 
 ##License
 none
+
 
